@@ -15,8 +15,7 @@ library(lingtypology)
 df <- read_csv("data.csv")
 ```
 
-[![](https://zenodo.org/badge/594122978.svg)](https://zenodo.org/badge/latestdoi/594122978)
-
+[![](https://zenodo.org/badge/594122978.svg){fig-align="left"}](https://zenodo.org/badge/latestdoi/594122978)
 
 How to cite:
 
