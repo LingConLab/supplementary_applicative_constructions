@@ -1,5 +1,5 @@
 ---
-title: "Supplimentary materials for paper 'Applicative constructions: Main features, genetic, and geographical distribution' by M. Polinsky and G. Moroz"
+title: "Supplimentary materials for 'Applicative constructions: Main features, genetic, and geographical distribution' by M. Polinsky and G. Moroz"
 format: html
 editor: source
 editor_options: 
@@ -35,7 +35,7 @@ Created with `lingtypology` (Moroz 2017)
 
 ## Data
 
-Raw data are available here.
+Raw data are available [here](https://raw.githubusercontent.com/LingConLab/supplementary_applicative_constructions/master/data.csv).
 
 ```{r}
 DT::datatable(df)
