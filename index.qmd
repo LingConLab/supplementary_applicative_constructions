@@ -19,8 +19,7 @@ df <- read_csv("data.csv")
 
 How to cite:
 
-> 'Applicative constructions: Main features, genetic, and geographical distribution' by M. Polinsky and G. Moroz. DOI: 10.5281/zenodo.7576734 
-
+> M. Polinsky and G. Moroz. Applicative constructions: Main features, genetic, and geographical distribution, in: Applicative Constructions in the World's Languages. Berlin: De Gruyter Mouton, 2023.
 
 ::: {.panel-tabset}
 
