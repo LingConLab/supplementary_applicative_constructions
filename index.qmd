@@ -1,5 +1,5 @@
 ---
-title: "Supplimentary materials for 'Applicative constructions: Main features, genetic, and geographical distribution' by M. Polinsky and G. Moroz"
+title: "Supplementary materials for 'Applicative constructions: Main features, genetic, and geographical distribution' by M. Polinsky and G. Moroz"
 format: html
 editor: source
 editor_options: 
