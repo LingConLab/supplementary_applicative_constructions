@@ -29,7 +29,8 @@ How to cite:
 map.feature(df$language,
             features = df$feature,
             latitude = df$latitude,
-            longitude = df$longitude)
+            longitude = df$longitude,
+            label = df$language_display)
 ```
 
 Created with `lingtypology` (Moroz 2017)

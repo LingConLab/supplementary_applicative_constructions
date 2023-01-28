@@ -1,250 +1,153 @@
-language,glottocode,feature,latitude,longitude
-Luiseno-Juaneño,luis1253,Benefactive object only; both bases,33.3184,-116.939
-Cahuilla,cahu1264,Benefactive object only; both bases,33.5324,-116.691
-Cupeño,cupe1243,Benefactive object only; both bases,33.3148,-116.515
-Hopi,hopi1249,Benefactive object only; both bases,35.7653,-110.535
-Luiseño,luis1254,Benefactive object only; both bases,33.3184,-116.939
-Northern Paiute,nort2954,Benefactive object only; both bases,40.0799,-119.536
-Tübatulabal,tuba1278,Benefactive object only; both bases,35.327,-117.163
-Serrano,serr1255,Benefactive object only; both bases,33.9479,-116.772
-Shoshoni,shos1248,Benefactive object only; both bases,41,-116
-Southern Paiute,sout2969,Benefactive object only; both bases,37,-114
-Panamint,pana1305,Benefactive object only; both bases,36.0007,-117.901
-Ute,utee1244,Benefactive object only; both bases,38,-109
-Bari,bari1284,Benefactive object only; both bases,4.19522,31.0723
-Turkana,turk1308,Benefactive object only; both bases,4.30688,35.7101
-Bauni,wara1302,Benefactive object only; both bases,-3.07263,142.012
-Yimas,yima1243,Benefactive object only; both bases,-4.71731,143.572
-Mian,mian1256,Benefactive object only; both bases,-4.70881,141.523
-Nez Perce,nezp1238,Benefactive object only; both bases,46.3073,-116.408
-Desano,desa1247,Benefactive object only; transitive base only,0.58157,-69.4955
-Kotiria,guan1269,Benefactive object only; transitive base only,1.07554,-69.5705
-Tucano,tuca1252,Benefactive object only; transitive base only,0.579755,-69.5763
-Barasana-Eduria,bara1380,Benefactive object only; transitive base only,0.02193,-70.808
-Carapana,cara1272,Benefactive object only; transitive base only,0.06168,-69.6465
-Cubeo,cube1242,Benefactive object only; transitive base only,1.32382,-70.1939
-Siona-Tetete,sion1247,Benefactive object only; transitive base only,0.31733,-76.0237
-Secoya,seco1241,Benefactive object only; transitive base only,-0.459785,-75.5547
-Koreguaje,kore1283,Benefactive object only; transitive base only,0.92316,-75.3475
-Pima Bajo,pima1248,Benefactive object only; transitive base only,28.654,-108.326
-Northern Tepehuan,nort2959,Benefactive object only; transitive base only,26.4348,-107.379
-Central Tarahumara,cent2131,Benefactive object only; transitive base only,27.5648,-107.154
-Huarijio,huar1255,Benefactive object only; transitive base only,27.8685,-108.437
-Otomi,otom1300,Benefactive object only; transitive base only,20.0324833333333,-98.9275777777778
-Zapotec,zapo1437,Benefactive object only; transitive base only,16.6523560650267,-96.8811704493903
-Batak Toba,bata1289,Benefactive object only; transitive base only,2.35498,99.1761
-Sasak,sasa1249,Benefactive object only; transitive base only,-8.58349,116.284
-Pendau,pend1242,Benefactive object only; transitive base only,-0.11396,119.862
-Central Ojibwa,cent2136,Benefactive object only; transitive base only,46.5741,-84.1543
-Ottawa,otta1242,Benefactive object only; transitive base only,44.5988,-83.226
-Algonquian,algo1257,Benefactive and other objects; both bases,45.8179120360025,-86.1285410521182
-Wolof,nucl1347,Benefactive and other objects; both bases,15.2534,-15.383
-Nyanja,nyan1308,Benefactive and other objects; both bases,-14.8047,32.8108
-Kinyarwanda,kiny1244,Benefactive and other objects; both bases,-1.56771,29.6441
-Tswana,tswa1253,Benefactive and other objects; both bases,-24.368,24.7587
-Rendille,rend1243,Benefactive and other objects; both bases,2.27065,37.3608
-Beja,beja1238,Benefactive and other objects; both bases,17.2436,36.6666
-Inuit,inui1246,Benefactive and other objects; both bases,65.6163768333333,-91.2165951666666
-Yupik,yupi1267,Benefactive and other objects; both bases,62.2444774992685,-161.623187605999
-Halkomelem,halk1245,Benefactive and other objects; both bases,49.250402,-122.443668
-Georgian,nucl1302,Benefactive and other objects; both bases,41.850397,43.78613
-Khaling,khal1275,Benefactive and other objects; both bases,27.3912,87.5053
-Mapudungun,mapu1245,Benefactive and other objects; both bases,-38.7392,-71.277
-Aguaruna,agua1253,Benefactive and other objects; both bases,-5.30044,-77.9218
-Huambisa,huam1247,Benefactive and other objects; both bases,-3.99109,-77.9797
-Shiwiar,shiw1235,Benefactive and other objects; both bases,-2.82646,-77.2641
-Circassian,circ1239,Benefactive and other objects; both bases,43.7541,41.3609
-Abkhaz,abkh1244,Benefactive and other objects; both bases,43.056218,41.159115
-Abaza,abaz1241,Benefactive and other objects; both bases,44.25,42
-Bahasa Indonesia,stin1234,Benefactive and other objects; both bases,-7.33458,109.716
-Shipibo,ship1255,Benefactive and other objects; both bases,-7.17105,-74.8219
-Iraqw,iraq1241,Benefactive and other objects; transitive base only,-4.19948,35.2939
-Tabasco Chontal,taba1266,Benefactive and other objects; transitive base only,18.1713,-92.7367
-Yaqui,yaqu1251,Benefactive and other objects; transitive base only,29.9446,-110.681
-Jola-Fonyi,jola1263,Non-benefactive object only; both bases,12.75752,-15.7354766667
-Yagua,yagu1244,Non-benefactive object only; both bases,-3.42913,-72.2186
-Bukusu,buku1249,Non-benefactive object only; both bases,0.68043,34.7719
-Totonac,toto1252,Non-benefactive object only; both bases,20.2738458333333,-97.2694958333333
-Huastec,huas1242,Non-benefactive object only; intransitive base only,21.6153,-98.5028
-Arhuaco,arhu1242,Benefactive and other objects; both bases,10.6666666667,-73.75
-Barclayville Grebo,barc1235,Benefactive and other objects; both bases,5,-8
-Bukiyip,buki1249,Benefactive and other objects; both bases,-3.46666666667,143.166666667
-Burushaski,buru1296,Benefactive and other objects; both bases,36.5,74.5
-Cahuilla,cahu1264,Benefactive and other objects; both bases,33.5,-116.25
-Central Kanuri,cent2050,Benefactive and other objects; both bases,12,13
-Comanche,coma1245,Benefactive and other objects; both bases,33.5,-101.5
-Dieri,dier1241,Benefactive and other objects; both bases,-28,139
-Georgian,nucl1302,Benefactive and other objects; both bases,42,44
-Haka Chin,haka1240,Benefactive and other objects; both bases,22.6666666667,93.6666666667
-Halkomelem,halk1245,Benefactive and other objects; both bases,49.2,-123
-Hausa,haus1257,Benefactive and other objects; both bases,12,7
-Hokkaido Ainu,ainu1240,Benefactive and other objects; both bases,43,143
-Igbo,nucl1417,Benefactive and other objects; both bases,6,7.33333333333
-Imonda,imon1245,Benefactive and other objects; both bases,-3.33333333333,141.166666667
-Kalaallisut,kala1399,Benefactive and other objects; both bases,64,-51
-Kambera,kamb1299,Benefactive and other objects; both bases,-9.83333333333,120.166666667
-Karok,karo1304,Benefactive and other objects; both bases,41.6666666667,-123
-Kinshasa Lingala,ling1263,Benefactive and other objects; both bases,2,18.5
-Krongo,kron1241,Benefactive and other objects; both bases,10.5,30
-Kutenai,kute1249,Benefactive and other objects; both bases,49.5,-116
-Lakota,lako1247,Benefactive and other objects; both bases,43.8333333333,-101.833333333
-Lango (Uganda),lang1324,Benefactive and other objects; both bases,2.16666666667,33
-Lower Grand Valley Dani,lowe1415,Benefactive and other objects; both bases,-4.33333333333,138.833333333
-Luvale,luva1239,Benefactive and other objects; both bases,-12,22
-Manipuri,mani1292,Benefactive and other objects; both bases,24.75,94
-Maricopa,mari1440,Benefactive and other objects; both bases,33.1666666667,-113.166666667
-Maybrat-Karon,maib1239,Benefactive and other objects; both bases,-1.33333333333,132.5
-Nama (Namibia),nama1264,Benefactive and other objects; both bases,-25.5,18
-Nez Perce,nezp1238,Benefactive and other objects; both bases,46,-116
-Nyanja,nyan1308,Benefactive and other objects; both bases,-14,34
-Oneida,onei1249,Benefactive and other objects; both bases,43,-75.6666666667
-Paiwan,paiw1248,Benefactive and other objects; both bases,22.5,120.833333333
-Plateau Malagasy,plat1254,Benefactive and other objects; both bases,-20,47
-Seneca,sene1264,Benefactive and other objects; both bases,42.5,-77.5
-Shipibo-Conibo,ship1254,Benefactive and other objects; both bases,-7.5,-75
-Swahili,swah1253,Benefactive and other objects; both bases,-6.5,39
-Tagalog,taga1270,Benefactive and other objects; both bases,15,121
-Thompson,thom1243,Benefactive and other objects; both bases,49.75,-121.75
-Tlachichilco Tepehua,tlac1235,Benefactive and other objects; both bases,20.5833333333,-98.25
-Tukang Besi,tuka1247,Benefactive and other objects; both bases,-5.5,123.5
-Urubú-Kaapor,urub1250,Benefactive and other objects; both bases,-2.33333333333,-46.5
-Western Keres,west2632,Benefactive and other objects; both bases,34.9166666667,-107.583333333
-Wichita,wich1260,Benefactive and other objects; both bases,33.3333333333,-97.3333333333
-Wolof,nucl1347,Benefactive and other objects; both bases,15.25,-16
-Wubuy,nung1290,Benefactive and other objects; both bases,-13.75,135.666666667
-Yimas,yima1243,Benefactive and other objects; both bases,-4.66666666667,143.55
-Zulu,zulu1248,Benefactive and other objects; both bases,-30,30
-Abkhaz,abkh1244,Benefactive and other objects; transitive base only,43.0833333333,41
-Taiap,taia1239,Benefactive and other objects; transitive base only,-4.08333333333,144.5
-Afar,afar1241,Benefactive object only; both bases,12,42
-Alamblak,alam1246,Benefactive object only; both bases,-4.66666666667,143.333333333
-Amele,amel1241,Benefactive object only; both bases,-5.25,145.583333333
-Chamorro,cham1312,Benefactive object only; both bases,13.45,144.75
-Copainalá Zoque,copa1236,Benefactive object only; both bases,17,-93.25
-Eastern Ojibwa,east2542,Benefactive object only; both bases,46,-80
-Kannada,nucl1305,Benefactive object only; both bases,14,76
-Kewa,kewa1250,Benefactive object only; both bases,-6.5,143.833333333
-Malecite-Passamaquoddy,male1292,Benefactive object only; both bases,45,-67
-Ngandi,ngan1295,Benefactive object only; both bases,-13.8333333333,135
-Nootka,noot1239,Benefactive object only; both bases,49.6666666667,-126.666666667
-Päri,pari1256,Benefactive object only; both bases,5,32.5
-Paumari,paum1247,Benefactive object only; both bases,-6,-64
-Plains Cree,plai1258,Benefactive and other objects; both bases,54,-110
-Usan,usan1239,Benefactive object only; both bases,-4.83333333333,145.166666667
-Yaqui,yaqu1251,Benefactive object; both bases,27.5,-110.25
-Sebat Bet Gurage,seba1251,Benefactive object only;  transitive base only,8.112935,37.93267
-Standard Indonesian,indo1316,Benefactive object only;  transitive base only,0,106
-Tamnim Citak,tamn1235,Benefactive object only;  transitive base only,-5.5,138.5
-Una,unaa1239,Benefactive object only;  transitive base only,-4.66666666667,140
-Amur Nivkh,gily1242,No applicative construction,53.3333333333,142
-Apurinã,apur1254,No applicative construction,-9,-67
-Archi,arch1244,No applicative construction,42,46.8333333333
-Aukan,ndyu1242,No applicative construction,4.5,-54.5
-Awa-Cuaiquer,awac1239,No applicative construction,1.5,-78.25
-Bagirmi,bagi1246,No applicative construction,11.6666666667,16
-Barasana-Eduria,bara1380,No applicative construction,-0.166666666667,-70.6666666667
-Basque,basq1248,No applicative construction,43,-3
-Brahui,brah1256,No applicative construction,28.5,67
-Burmese,nucl1310,No applicative construction,21,96
-Canela-Krahô,cane1242,No applicative construction,-7,-45
-Central Alaskan Yupik,cent2127,Benefactive and other objects; both bases,59.5,-160
-Central Moroccan Berber,cent2194,No applicative construction,33,-5
-Central Pomo,cent2138,No applicative construction,39,-123.333333333
-Chukchi,chuk1273,No applicative construction,67,-173
-Daga,daga1275,No applicative construction,-10,149.333333333
-Eastern Armenian,nucl1235,No applicative construction,40,45
-Eastern Oromo,east2652,No applicative construction,9,42
-Eastern Panjabi,panj1256,No applicative construction,31,74
-Egyptian Arabic,egyp1253,No applicative construction,30,31
-English,stan1293,No applicative construction,52,0
-Evenki,even1259,No applicative construction,56,125
-Ewe,ewee1241,No applicative construction,6.33333333333,0.416666666667
-Finnish,finn1318,No applicative construction,62,25
-French,stan1290,No applicative construction,48,2
-German,stan1295,No applicative construction,52,10
-Godoberi,ghod1238,No applicative construction,42.6666666667,46.0833333333
-Gooniyandi,goon1238,No applicative construction,-18.3333333333,126.333333333
-Halh Mongolian,halh1238,No applicative construction,47,105
-Hindi,hind1269,No applicative construction,25,77
-Hixkaryána,hixk1239,No applicative construction,-1,-59
-Hua Miao,huam1250,No applicative construction,28,105
-Hungarian,hung1274,Non-benefactive object only; both bases,47,20
-Hunzib,hunz1247,No applicative construction,42.1666666667,46.25
-Icelandic,icel1247,No applicative construction,65,-17
-Imbabura Highland Quichua,imba1240,No applicative construction,0.333333333333,-78
-Ingush,ingu1240,No applicative construction,43.1666666667,45.0833333333
-Iraqw,iraq1241,No applicative construction,-4,35.5
-Japanese,nucl1643,No applicative construction,37,140
-Jingulu,djin1251,No applicative construction,-17.75,134
-Kashmiri,kash1277,No applicative construction,34,76
-Kayardild,kaya1319,No applicative construction,-17.05,139.5
-Ket,kett1243,No applicative construction,64,87
-Khakas,khak1248,No applicative construction,53,90
-Khasi,khas1269,No applicative construction,25.5,92
-Kilivila,kili1267,No applicative construction,-8.5,151.083333333
-Kiowa,kiow1266,No applicative construction,37,-99
-Kirghiz,kirg1245,No applicative construction,42,75
-Koasati,koas1236,No applicative construction,34.8333333333,-85.1666666667
-Kobon,kobo1249,No applicative construction,-5.16666666667,144.333333333
-Kolami-Naiki,kola1242,No applicative construction,20,78.5
-Korean,kore1280,benefactive and other objects; both bases,37.5,128
-Koromfé,koro1298,No applicative construction,14.25,-0.916666666667
-Lak,lakk1252,No applicative construction,42.1666666667,47.1666666667
-Latvian,latv1249,No applicative construction,57,24
-Lavukaleve,lavu1241,No applicative construction,-9.08333333333,159.2
-Lezgian,lezg1247,No applicative construction,41.6666666667,47.8333333333
-Macushi,macu1259,No applicative construction,4,-60
-Makah,maka1318,No applicative construction,48.3333333333,-124.666666667
-Mandarin Chinese,mand1415,No applicative construction,34,110
-Mangarrayi,mang1381,No applicative construction,-14.6666666667,133.5
-Maori,maor1246,No applicative construction,-40,176
-Mapudungun,mapu1245,No applicative construction,-38,-72
-Martuthunira,mart1255,No applicative construction,-20.8333333333,116.5
-Mawng,maun1240,No applicative construction,-11.9166666667,133.5
-Mezquital Otomi,mezq1235,No applicative construction,20.1666666667,-99.1666666667
-Modern Greek,mode1248,No applicative construction,39,22
-Modern Hebrew,hebr1245,No applicative construction,31.5,34.8333333333
-Murle,murl1244,No applicative construction,6.5,33.5
-Ngiyambaa,wang1291,No applicative construction,-31.75,145.5
-Paama,paam1238,No applicative construction,-16.5,168.25
-Paraguayan Guaraní,para1311,No applicative construction,-26,-56
-Pirahã,pira1253,No applicative construction,-7,-62
-Rama,rama1270,No applicative construction,11.75,-83.75
-Rapanui,rapa1244,No applicative construction,-27.1166666667,-109.366666667
-Russian,russ1263,No applicative construction,56,38
-San Miguel El Grande Mixtec,sanm1295,No applicative construction,17.05,-97.5833333333
-Sango,sang1328,No applicative construction,5,18
-Sanumá,sanu1240,No applicative construction,4.5,-64.6666666667
-Scottish Gaelic,scot1245,No applicative construction,57,-4
-Slave,slav1253,No applicative construction,67,-125
-Spanish,stan1288,No applicative construction,40,-4
-Suena,suen1241,No applicative construction,-7.75,147.55
-Supyire Senoufo,supy1237,No applicative construction,11.5,-5.58333333333
-Tamil,tami1289,No applicative construction,11,78.5
-Thai,thai1261,No applicative construction,16,101
-Tsez,dido1241,No applicative construction,42.25,45.75
-Turkish,nucl1301,No applicative construction,39,35
-Tuvalu,tuva1244,No applicative construction,-8.5,179.166666667
-Ukrainian,ukra1253,No applicative construction,49,33
-Uzbek,uzbe1247,No applicative construction,39,66
-Vietnamese,viet1252,No applicative construction,10.5,106.5
-Warao,wara1303,No applicative construction,9.33333333333,-61.6666666667
-Wardaman,ward1246,No applicative construction,-15.5,131
-Wari',wari1268,No applicative construction,-11.3333333333,-65
-Western Farsi,west2369,No applicative construction,32,54
-Wichí Lhamtés Güisnay,wich1264,No applicative construction,-22.5,-62.5833333333
-Yazgulyam,yazg1240,No applicative construction,38.5,71.5
-Yoruba,yoru1245,No applicative construction,8,4.33333333333
-Yurok,yuro1248,No applicative construction,41.3333333333,-124
-Chiga,chig1238,Non-benefactive object; both bases,-0.916666666667,29.8333333333
-Dyirbal,dyir1250,Non-benefactive object; both bases,-17.8333333333,145.583333333
-East Makian,east2440,Non-benefactive object; both bases,0,127.5
-Epena,epen1239,Non-benefactive object; both bases,3,-77
-Koyraboro Senni Songhai,koyr1242,Non-benefactive object; both bases,16,0
-South-Eastern Ju,juho1239,Non-benefactive object; both bases,-19,21
-Tiwi,tiwi1244,Non-benefactive object; both bases,-11.5,131
-Yagua,yagu1244,Non-benefactive object; both bases,-3.5,-72
-Yidiñ,yidi1250,Non-benefactive object; both bases,-17,145.75
-Fijian,fiji1243,benefactive and other objects; both bases,-17.8333333333,178
-Wambayan,wamb1258,Non-benefactive object;  intransitive base only,-18.6666666667,135.75
-Popti',popt1235,Benefactive and other objects;  transitive base only,15.6666666667,-91.6666666667
+id,language,language_display,glottocode,feature,latitude,longitude
+1,Luiseno-Juaneño,Luiseno-Juaneño,luis1253,Benefactive object only; both bases (33),33.3184,-116.939
+2,Cahuilla,Cahuilla,cahu1264,Benefactive object only; both bases (33),33.5324,-116.691
+3,Cupeño,Cupeño,cupe1243,Benefactive object only; both bases (33),33.3148,-116.515
+4,Hopi,Hopi,hopi1249,Benefactive object only; both bases (33),35.7653,-110.535
+5,Luiseño,Luiseño,luis1254,Benefactive object only; both bases (33),33.3184,-116.939
+6,Northern Paiute,Northern Paiute,nort2954,Benefactive object only; both bases (33),40.0799,-119.536
+7,Tübatulabal,Pahka’anil (Tübatulabal),tuba1278,Benefactive object only; both bases (33),35.327,-117.163
+8,Serrano,Serrano,serr1255,Benefactive object only; both bases (33),33.9479,-116.772
+9,Shoshoni,Shoshoni,shos1248,Benefactive object only; both bases (33),41,-116
+10,Southern Paiute,Southern Paiute,sout2969,Benefactive object only; both bases (33),37,-114
+11,Panamint,Tümpisa (Panamint),pana1305,Benefactive object only; both bases (33),36.0007,-117.901
+12,Ute,Ute,utee1244,Benefactive object only; both bases (33),38,-109
+13,Bari,Bari,bari1284,Benefactive object only; both bases (33),4.19522,31.0723
+14,Turkana,Turkana,turk1308,Benefactive object only; both bases (33),4.30688,35.7101
+15,Bauni,Barupu-Bauni,wara1302,Benefactive object only; both bases (33),-3.07263,142.012
+16,Yimas,Yimas,yima1243,Benefactive object only; both bases (33),-4.71731,143.572
+17,Mian,Mian,mian1256,Benefactive object only; both bases (33),-4.70881,141.523
+18,Nez Perce,Nez Perce,nezp1238,Benefactive object only; both bases (33),46.3073,-116.408
+19,Desano,Desano,desa1247,Benefactive object only; transitive base only (24),0.58157,-69.4955
+20,Kotiria,Kotiria,guan1269,Benefactive object only; transitive base only (24),1.07554,-69.5705
+21,Tucano,Tucano,tuca1252,Benefactive object only; transitive base only (24),0.579755,-69.5763
+22,Barasana-Eduria,Barasana-Eduria,bara1380,Benefactive object only; transitive base only (24),0.02193,-70.808
+23,Carapana,Carapana,cara1272,Benefactive object only; transitive base only (24),0.06168,-69.6465
+24,Cubeo,Cubeo,cube1242,Benefactive object only; transitive base only (24),1.32382,-70.1939
+25,Siona-Tetete,Siona-Tetete,sion1247,Benefactive object only; transitive base only (24),0.31733,-76.0237
+26,Secoya,Secoya,seco1241,Benefactive object only; transitive base only (24),-0.459785,-75.5547
+27,Koreguaje,Koreguaje,kore1283,Benefactive object only; transitive base only (24),0.92316,-75.3475
+28,Pima Bajo,Pima Bajo,pima1248,Benefactive object only; transitive base only (24),28.654,-108.326
+29,Northern Tepehuan,Northern Tepehuan,nort2959,Benefactive object only; transitive base only (24),26.4348,-107.379
+30,Central Tarahumara,Tarahumara,cent2131,Benefactive object only; transitive base only (24),27.5648,-107.154
+31,Huarijio,Huarijio,huar1255,Benefactive object only; transitive base only (24),27.8685,-108.437
+32,Otomi,Otomi,otom1300,Benefactive object only; transitive base only (24),20.0324833333333,-98.9275777777778
+33,Zapotec,Zapotec,zapo1437,Benefactive object only; transitive base only (24),16.6523560650267,-96.8811704493903
+34,Batak Toba,Toba Batak,bata1289,Benefactive object only; transitive base only (24),2.35498,99.1761
+35,Sasak,Sasak,sasa1249,Benefactive object only; transitive base only (24),-8.58349,116.284
+36,Pendau,Pendau,pend1242,Benefactive object only; transitive base only (24),-0.11396,119.862
+37,Central Ojibwa,Ojibwe,cent2136,Benefactive object only; transitive base only (24),46.5741,-84.1543
+38,Ottawa,Nishnaabemwin,otta1242,Benefactive object only; transitive base only (24),44.5988,-83.226
+39,Algonquian,Algonquian,algo1257,Benefactive and other objects; both bases (73),45.8179120360025,-86.1285410521182
+40,Wolof,Wolof,nucl1347,Benefactive and other objects; both bases (73),15.2534,-15.383
+41,Nyanja,Chichewa,nyan1308,Benefactive and other objects; both bases (73),-14.8047,32.8108
+42,Kinyarwanda,Kinyarwanda,kiny1244,Benefactive and other objects; both bases (73),-1.56771,29.6441
+43,Tswana,Tswana,tswa1253,Benefactive and other objects; both bases (73),-24.368,24.7587
+44,Rendille,Rendille,rend1243,Benefactive and other objects; both bases (73),2.27065,37.3608
+45,Beja,Beja,beja1238,Benefactive and other objects; both bases (73),17.2436,36.6666
+46,Inuit,Inuit,inui1246,Benefactive and other objects; both bases (73),65.6163768333333,-91.2165951666666
+47,Yupik,Yupik,yupi1267,Benefactive and other objects; both bases (73),62.2444774992685,-161.623187605999
+48,Halkomelem,Halkomelem,halk1245,Benefactive and other objects; both bases (73),49.250402,-122.443668
+49,Georgian,Georgian,nucl1302,Benefactive and other objects; both bases (73),41.850397,43.78613
+50,Khaling,Khaling,khal1275,Benefactive and other objects; both bases (73),27.3912,87.5053
+51,Mapudungun,Mapudungun,mapu1245,Benefactive and other objects; both bases (73),-38.7392,-71.277
+52,Aguaruna,Aguaruna,agua1253,Benefactive and other objects; both bases (73),-5.30044,-77.9218
+53,Huambisa,Huambisa,huam1247,Benefactive and other objects; both bases (73),-3.99109,-77.9797
+54,Shiwiar,Shiwiar,shiw1235,Benefactive and other objects; both bases (73),-2.82646,-77.2641
+55,Circassian,Circassian,circ1239,Benefactive and other objects; both bases (73),43.7541,41.3609
+56,Abkhaz,Abkhaz,abkh1244,Benefactive and other objects; both bases (73),43.056218,41.159115
+57,Abaza,Abaza,abaz1241,Benefactive and other objects; both bases (73),44.25,42
+58,Bahasa Indonesia,Bahasa Indonesia,stin1234,Benefactive and other objects; both bases (73),-7.33458,109.716
+59,Shipibo,Shipibo,ship1255,Benefactive and other objects; both bases (73),-7.17105,-74.8219
+60,Iraqw,Iraqw,iraq1241,Benefactive and other objects; transitive base only (6),-4.19948,35.2939
+61,Tabasco Chontal,Chontal,taba1266,Benefactive and other objects; transitive base only (6),18.1713,-92.7367
+62,Yaqui,Yaqui,yaqu1251,Benefactive and other objects; transitive base only (6),29.9446,-110.681
+63,Jola-Fonyi,Jola-Fonyi,jola1263,Non-benefactive object only; both bases (14),12.75752,-15.7354766667
+65,Yagua,Yagua,yagu1244,Non-benefactive object only; both bases (14),-3.42913,-72.2186
+66,Bukusu,Bukusu,buku1249,Non-benefactive object only; both bases (14),0.68043,34.7719
+67,Totonac,Totonac,toto1252,Non-benefactive object only; both bases (14),20.2738458333333,-97.2694958333333
+68,Huastec,Huastec,huas1242,Non-benefactive object only; intransitive base only (2),21.6153,-98.5028
+70,Arhuaco,Arhuaco,arhu1242,Benefactive and other objects; both bases (73),10.6666666667,-73.75
+71,Barclayville Grebo,Barclayville Grebo,barc1235,Benefactive and other objects; both bases (73),5,-8
+72,Bukiyip,Bukiyip,buki1249,Benefactive and other objects; both bases (73),-3.46666666667,143.166666667
+73,Burushaski,Burushaski,buru1296,Benefactive and other objects; both bases (73),36.5,74.5
+74,Cahuilla,Cahuilla,cahu1264,Benefactive and other objects; both bases (73),33.5,-116.25
+75,Central Kanuri,Central Kanuri,cent2050,Benefactive and other objects; both bases (73),12,13
+76,Comanche,Comanche,coma1245,Benefactive and other objects; both bases (73),33.5,-101.5
+77,Dieri,Dieri,dier1241,Benefactive and other objects; both bases (73),-28,139
+78,Georgian,Georgian,nucl1302,Benefactive and other objects; both bases (73),42,44
+79,Haka Chin,Haka Chin,haka1240,Benefactive and other objects; both bases (73),22.6666666667,93.6666666667
+80,Halkomelem,Halkomelem,halk1245,Benefactive and other objects; both bases (73),49.2,-123
+81,Hausa,Hausa,haus1257,Benefactive and other objects; both bases (73),12,7
+82,Hokkaido Ainu,Hokkaido Ainu,ainu1240,Benefactive and other objects; both bases (73),43,143
+83,Igbo,Igbo,nucl1417,Benefactive and other objects; both bases (73),6,7.33333333333
+84,Imonda,Imonda,imon1245,Benefactive and other objects; both bases (73),-3.33333333333,141.166666667
+85,Kalaallisut,Kalaallisut,kala1399,Benefactive and other objects; both bases (73),64,-51
+86,Kambera,Kambera,kamb1299,Benefactive and other objects; both bases (73),-9.83333333333,120.166666667
+87,Karok,Karok,karo1304,Benefactive and other objects; both bases (73),41.6666666667,-123
+88,Kinshasa Lingala,Kinshasa Lingala,ling1263,Benefactive and other objects; both bases (73),2,18.5
+89,Krongo,Krongo,kron1241,Benefactive and other objects; both bases (73),10.5,30
+90,Kutenai,Kutenai,kute1249,Benefactive and other objects; both bases (73),49.5,-116
+91,Lakota,Lakota,lako1247,Benefactive and other objects; both bases (73),43.8333333333,-101.833333333
+92,Lango (Uganda),Lango (Uganda),lang1324,Benefactive and other objects; both bases (73),2.16666666667,33
+93,Lower Grand Valley Dani,Lower Grand Valley Dani,lowe1415,Benefactive and other objects; both bases (73),-4.33333333333,138.833333333
+94,Luvale,Luvale,luva1239,Benefactive and other objects; both bases (73),-12,22
+95,Manipuri,Manipuri,mani1292,Benefactive and other objects; both bases (73),24.75,94
+96,Maricopa,Maricopa,mari1440,Benefactive and other objects; both bases (73),33.1666666667,-113.166666667
+97,Maybrat-Karon,Maybrat-Karon,maib1239,Benefactive and other objects; both bases (73),-1.33333333333,132.5
+98,Nama (Namibia),Nama (Namibia),nama1264,Benefactive and other objects; both bases (73),-25.5,18
+99,Nez Perce,Nez Perce,nezp1238,Benefactive and other objects; both bases (73),46,-116
+100,Nyanja,Nyanja,nyan1308,Benefactive and other objects; both bases (73),-14,34
+101,Oneida,Oneida,onei1249,Benefactive and other objects; both bases (73),43,-75.6666666667
+102,Paiwan,Paiwan,paiw1248,Benefactive and other objects; both bases (73),22.5,120.833333333
+103,Plateau Malagasy,Plateau Malagasy,plat1254,Benefactive and other objects; both bases (73),-20,47
+104,Seneca,Seneca,sene1264,Benefactive and other objects; both bases (73),42.5,-77.5
+105,Shipibo-Conibo,Shipibo-Conibo,ship1254,Benefactive and other objects; both bases (73),-7.5,-75
+106,Swahili,Swahili,swah1253,Benefactive and other objects; both bases (73),-6.5,39
+107,Tagalog,Tagalog,taga1270,Benefactive and other objects; both bases (73),15,121
+108,Thompson,Thompson,thom1243,Benefactive and other objects; both bases (73),49.75,-121.75
+109,Tlachichilco Tepehua,Tlachichilco Tepehua,tlac1235,Benefactive and other objects; both bases (73),20.5833333333,-98.25
+110,Tukang Besi,Tukang Besi,tuka1247,Benefactive and other objects; both bases (73),-5.5,123.5
+111,Urubú-Kaapor,Urubú-Kaapor,urub1250,Benefactive and other objects; both bases (73),-2.33333333333,-46.5
+112,Western Keres,Western Keres,west2632,Benefactive and other objects; both bases (73),34.9166666667,-107.583333333
+113,Wichita,Wichita,wich1260,Benefactive and other objects; both bases (73),33.3333333333,-97.3333333333
+114,Wolof,Wolof,nucl1347,Benefactive and other objects; both bases (73),15.25,-16
+115,Wubuy,Wubuy,nung1290,Benefactive and other objects; both bases (73),-13.75,135.666666667
+116,Yimas,Yimas,yima1243,Benefactive and other objects; both bases (73),-4.66666666667,143.55
+117,Zulu,Zulu,zulu1248,Benefactive and other objects; both bases (73),-30,30
+118,Abkhaz,Abkhaz,abkh1244,Benefactive and other objects; transitive base only (6),43.0833333333,41
+119,Taiap,Taiap,taia1239,Benefactive and other objects; transitive base only (6),-4.08333333333,144.5
+120,Afar,Afar,afar1241,Benefactive object only; both bases (33),12,42
+121,Alamblak,Alamblak,alam1246,Benefactive object only; both bases (33),-4.66666666667,143.333333333
+122,Amele,Amele,amel1241,Benefactive object only; both bases (33),-5.25,145.583333333
+123,Chamorro,Chamorro,cham1312,Benefactive object only; both bases (33),13.45,144.75
+124,Copainalá Zoque,Copainalá Zoque,copa1236,Benefactive object only; both bases (33),17,-93.25
+125,Eastern Ojibwa,Eastern Ojibwa,east2542,Benefactive object only; both bases (33),46,-80
+126,Kannada,Kannada,nucl1305,Benefactive object only; both bases (33),14,76
+127,Kewa,Kewa,kewa1250,Benefactive object only; both bases (33),-6.5,143.833333333
+128,Malecite-Passamaquoddy,Malecite-Passamaquoddy,male1292,Benefactive object only; both bases (33),45,-67
+129,Ngandi,Ngandi,ngan1295,Benefactive object only; both bases (33),-13.8333333333,135
+130,Nootka,Nootka,noot1239,Benefactive object only; both bases (33),49.6666666667,-126.666666667
+131,Päri,Päri,pari1256,Benefactive object only; both bases (33),5,32.5
+132,Paumari,Paumari,paum1247,Benefactive object only; both bases (33),-6,-64
+133,Plains Cree,Plains Cree,plai1258,Benefactive and other objects; both bases (73),54,-110
+134,Usan,Usan,usan1239,Benefactive object only; both bases (33),-4.83333333333,145.166666667
+135,Yaqui,Yaqui,yaqu1251,Benefactive object only; both bases (33),27.5,-110.25
+136,Sebat Bet Gurage,Sebat Bet Gurage,seba1251,Benefactive object only; transitive base only (24),8.112935,37.93267
+137,Standard Indonesian,Standard Indonesian,indo1316,Benefactive object only; transitive base only (24),0,106
+138,Tamnim Citak,Tamnim Citak,tamn1235,Benefactive object only; transitive base only (24),-5.5,138.5
+139,Una,Una,unaa1239,Benefactive object only; transitive base only (24),-4.66666666667,140
+151,Central Alaskan Yupik,Central Alaskan Yupik,cent2127,Benefactive and other objects; both bases (73),59.5,-160
+172,Hungarian,Hungarian,hung1274,Non-benefactive object only; both bases (14),47,20
+191,Korean,Korean,kore1280,Benefactive and other objects; both bases (73),37.5,128
+240,Chiga,Chiga,chig1238,Non-benefactive object only; both bases (14),-0.916666666667,29.8333333333
+241,Dyirbal,Dyirbal,dyir1250,Non-benefactive object only; both bases (14),-17.8333333333,145.583333333
+242,East Makian,East Makian,east2440,Non-benefactive object only; both bases (14),0,127.5
+243,Epena,Epena,epen1239,Non-benefactive object only; both bases (14),3,-77
+244,Koyraboro Senni Songhai,Koyraboro Senni Songhai,koyr1242,Non-benefactive object only; both bases (14),16,0
+245,South-Eastern Ju,South-Eastern Ju,juho1239,Non-benefactive object only; both bases (14),-19,21
+246,Tiwi,Tiwi,tiwi1244,Non-benefactive object only; both bases (14),-11.5,131
+247,Yagua,Yagua,yagu1244,Non-benefactive object only; both bases (14),-3.5,-72
+248,Yidiñ,Yidiñ,yidi1250,Non-benefactive object only; both bases (14),-17,145.75
+249,Fijian,Fijian,fiji1243,Benefactive and other objects; both bases (73),-17.8333333333,178
+250,Wambayan,Wambayan,wamb1258,Non-benefactive object only; intransitive base only (2),-18.6666666667,135.75
+251,Popti',Popti',popt1235,Benefactive and other objects; transitive base only (6),15.6666666667,-91.6666666667
