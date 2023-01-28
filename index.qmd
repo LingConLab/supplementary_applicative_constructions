@@ -1,5 +1,5 @@
 ---
-title: "Supplementary materials for 'Applicative constructions: Main features, genetic, and geographical distribution' by M. Polinsky and G. Moroz"
+title: "Supplementary materials for 'Applicative constructions: Main features, genetic, and geographical distribution' by G. Moroz and M. Polinsky"
 format: html
 editor: source
 editor_options: 
@@ -19,7 +19,7 @@ df <- read_csv("data.csv")
 
 How to cite:
 
-> M. Polinsky and G. Moroz. Applicative constructions: Main features, genetic, and geographical distribution, in: Applicative Constructions in the World's Languages. Berlin: De Gruyter Mouton, 2023.
+> G. Moroz and M. Polinsky. Applicative constructions: Main features, genetic, and geographical distribution, in: Applicative Constructions in the World's Languages. Berlin: De Gruyter Mouton, 2023.
 
 ::: {.panel-tabset}
 
