@@ -61,10 +61,10 @@ id,language,language_display,glottocode,feature,latitude,longitude
 60,Iraqw,Iraqw,iraq1241,Benefactive and other objects; transitive base only (5),-4.19948,35.2939
 61,Tabasco Chontal,Chontal,taba1266,Benefactive and other objects; transitive base only (5),18.1713,-92.7367
 62,Yaqui,Yaqui,yaqu1251,Benefactive and other objects; transitive base only (5),29.9446,-110.681
-63,Jola-Fonyi,Jola-Fonyi,jola1263,Non-benefactive object only; both bases (13),12.75752,-15.7354766667
-65,Yagua,Yagua,yagu1244,Non-benefactive object only; both bases (13),-3.42913,-72.2186
-66,Bukusu,Bukusu,buku1249,Non-benefactive object only; both bases (13),0.68043,34.7719
-67,Totonac,Totonac,toto1252,Non-benefactive object only; both bases (13),20.2738458333333,-97.2694958333333
+63,Jola-Fonyi,Jola-Fonyi,jola1263,Non-benefactive object only; both bases (28),12.75752,-15.7354766667
+65,Yagua,Yagua,yagu1244,Non-benefactive object only; both bases (28),-3.42913,-72.2186
+66,Bukusu,Bukusu,buku1249,Non-benefactive object only; both bases (28),0.68043,34.7719
+67,Totonac,Totonac,toto1252,Non-benefactive object only; both bases (28),20.2738458333333,-97.2694958333333
 68,Huastec,Huastec,huas1242,Non-benefactive object only; intransitive base only (2),21.6153,-98.5028
 70,Arhuaco,Arhuaco,arhu1242,Benefactive and other objects; both bases (68),10.6666666667,-73.75
 71,Barclayville Grebo,Barclayville Grebo,barc1235,Benefactive and other objects; both bases (68),5,-8
@@ -129,17 +129,32 @@ id,language,language_display,glottocode,feature,latitude,longitude
 138,Tamnim Citak,Tamnim Citak,tamn1235,Benefactive object only; transitive base only (24),-5.5,138.5
 139,Una,Una,unaa1239,Benefactive object only; transitive base only (24),-4.66666666667,140
 151,Central Alaskan Yupik,Central Alaskan Yupik,cent2127,Benefactive and other objects; both bases (68),59.5,-160
-172,Hungarian,Hungarian,hung1274,Non-benefactive object only; both bases (13),47,20
+172,Hungarian,Hungarian,hung1274,Non-benefactive object only; both bases (28),47,20
 191,Korean,Korean,kore1280,Benefactive and other objects; both bases (68),37.5,128
-240,Chiga,Chiga,chig1238,Non-benefactive object only; both bases (13),-0.916666666667,29.8333333333
-241,Dyirbal,Dyirbal,dyir1250,Non-benefactive object only; both bases (13),-17.8333333333,145.583333333
-242,East Makian,East Makian,east2440,Non-benefactive object only; both bases (13),0,127.5
-243,Epena,Epena,epen1239,Non-benefactive object only; both bases (13),3,-77
-244,Koyraboro Senni Songhai,Koyraboro Senni Songhai,koyr1242,Non-benefactive object only; both bases (13),16,0
-245,South-Eastern Ju,South-Eastern Ju,juho1239,Non-benefactive object only; both bases (13),-19,21
-246,Tiwi,Tiwi,tiwi1244,Non-benefactive object only; both bases (13),-11.5,131
-248,Yidiñ,Yidiñ,yidi1250,Non-benefactive object only; both bases (13),-17,145.75
+240,Chiga,Chiga,chig1238,Non-benefactive object only; both bases (28),-0.916666666667,29.8333333333
+241,Dyirbal,Dyirbal,dyir1250,Non-benefactive object only; both bases (28),-17.8333333333,145.583333333
+242,East Makian,East Makian,east2440,Non-benefactive object only; both bases (28),0,127.5
+243,Epena,Epena,epen1239,Non-benefactive object only; both bases (28),3,-77
+244,Koyraboro Senni Songhai,Koyraboro Senni Songhai,koyr1242,Non-benefactive object only; both bases (28),16,0
+245,South-Eastern Ju,South-Eastern Ju,juho1239,Non-benefactive object only; both bases (28),-19,21
+246,Tiwi,Tiwi,tiwi1244,Non-benefactive object only; both bases (28),-11.5,131
+248,Yidiñ,Yidiñ,yidi1250,Non-benefactive object only; both bases (28),-17,145.75
 249,Fijian,Fijian,fiji1243,Benefactive and other objects; both bases (68),-17.8333333333,178
 250,Wambayan,Wambayan,wamb1258,Non-benefactive object only; intransitive base only (2),-18.6666666667,135.75
 251,Popti',Popti',popt1235,Benefactive and other objects; transitive base only (5),15.6666666667,-91.6666666667
 252,Lai Chin,Hakha Lai,laic1236,Benefactive and other objects; both bases (68),22.96005,92.8989
+253,English,English,stan1293,Non-benefactive object only; both bases (28),53,-1
+254,Modern High German,German,stan1295,Non-benefactive object only; both bases (28),48.649,12.4676
+255,Czech,Czech,czec1258,Non-benefactive object only; both bases (28),49.873398,15.10437
+256,Slovak,Slovak,slov1269,Non-benefactive object only; both bases (28),48.545705,18.78479
+257,Upper Sorbian,Upper Sorbian,uppe1395,Non-benefactive object only; both bases (28),51.2403,14.4098
+258,Polish,Polish,poli1260,Non-benefactive object only; both bases (28),51.8439,18.6255
+259,Slovenian,Slovenian,slov1268,Non-benefactive object only; both bases (28),46.2543,14.7766
+260,Standard Serbian,Serbian-Croatian-Bosnian,serb1264,Non-benefactive object only; both bases (28),44.3238,21.9192
+262,Bulgarian,Bulgarian,bulg1262,Non-benefactive object only; both bases (28),43.3646,25.047
+263,Macedonian,Macedonian,mace1250,Non-benefactive object only; both bases (28),41.5957,21.7932
+264,Belarusian,Belarusian,bela1254,Non-benefactive object only; both bases (28),53.2307,25.6038
+265,Russian,Russian,russ1263,Non-benefactive object only; both bases (28),59,50
+266,Ukrainian,Ukrainian,ukra1253,Non-benefactive object only; both bases (28),49.796,29.945
+267,Standard Latvian,Latvian,stan1325,Non-benefactive object only; both bases (28),57,24
+268,Lithuanian,Lithuanian,lith1251,Non-benefactive object only; both bases (28),55.1429,23.9601

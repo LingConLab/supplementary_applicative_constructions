@@ -2,6 +2,8 @@
 title: "Supplementary materials for 'Applicative constructions: Main features, genetic, and geographical distribution' by G. Moroz and M. Polinsky"
 format: html
 editor: source
+date: "today"
+date-format: "D.MM.YYYY"
 editor_options: 
   chunk_output_type: console
 ---
@@ -13,6 +15,10 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, fig.width 
 library(tidyverse)
 library(lingtypology)
 df <- read_csv("data.csv")
+
+df |> 
+  mutate(language2 = lang.gltc(glottocode)) ->
+  df
 ```
 
 [![](https://zenodo.org/badge/594122978.svg){fig-align="left"}](https://zenodo.org/badge/latestdoi/594122978)
@@ -26,7 +32,7 @@ How to cite:
 ## Map
 
 ```{r}
-map.feature(df$language,
+map.feature(df$language2,
             features = df$feature,
             latitude = df$latitude,
             longitude = df$longitude,
